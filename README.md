@@ -11,4 +11,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tron-xR/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+## Math
+|  |
+| ------- |
+| [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
+## String
+|  |
+| ------- |
+| [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
+## Counting
+|  |
+| ------- |
+| [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->
