@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tron-xR/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
