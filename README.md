@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tron-xR/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tron-xR/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [4247-minimum-capacity-box](https://github.com/Tron-xR/LeetCode/tree/master/4247-minimum-capacity-box) |
 ## Binary Search
 |  |
 | ------- |
