@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tron-xR/LeetCode/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Tron-xR/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tron-xR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
 ## Greedy
 |  |
@@ -95,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Simulation
 |  |
@@ -109,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tron-xR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
