@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Tron-xR/LeetCode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Tron-xR/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tron-xR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tron-xR/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tron-xR/LeetCode/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0941-sort-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2228-watering-plants-ii](https://github.com/Tron-xR/LeetCode/tree/master/2228-watering-plants-ii) |
@@ -118,4 +121,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
