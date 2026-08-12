@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Tron-xR/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tron-xR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Tron-xR/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tron-xR/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
