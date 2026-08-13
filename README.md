@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tron-xR/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tron-xR/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Tron-xR/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2228-watering-plants-ii](https://github.com/Tron-xR/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tron-xR/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tron-xR/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Tron-xR/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Simulation
 |  |
 | ------- |
