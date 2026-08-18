@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4247-minimum-capacity-box](https://github.com/Tron-xR/LeetCode/tree/master/4247-minimum-capacity-box) |
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tron-xR/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
