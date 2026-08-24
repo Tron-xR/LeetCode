@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/Tron-xR/LeetCode/tree/master/0441-arranging-coins) |
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tron-xR/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Tron-xR/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 ## Minimax
 |  |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -153,4 +156,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tron-xR/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
