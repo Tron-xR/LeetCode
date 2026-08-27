@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tron-xR/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Tron-xR/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Tron-xR/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2228-watering-plants-ii](https://github.com/Tron-xR/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
+| [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 ## Two Pointers
 |  |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tron-xR/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Tron-xR/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
