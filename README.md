@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tron-xR/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Tron-xR/LeetCode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tron-xR/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Tron-xR/LeetCode/tree/master/0278-first-bad-version) |
@@ -167,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tron-xR/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
