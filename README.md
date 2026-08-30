@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4247-minimum-capacity-box](https://github.com/Tron-xR/LeetCode/tree/master/4247-minimum-capacity-box) |
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
+| [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tron-xR/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
+| [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
 ## String
 |  |
 | ------- |
@@ -175,4 +177,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tron-xR/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
