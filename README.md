@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tron-xR/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
+| [4199-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Tron-xR/LeetCode/tree/master/4199-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [4247-minimum-capacity-box](https://github.com/Tron-xR/LeetCode/tree/master/4247-minimum-capacity-box) |
 | [4280-count-digit-appearances](https://github.com/Tron-xR/LeetCode/tree/master/4280-count-digit-appearances) |
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
