@@ -84,12 +84,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
+| [4365-count-valid-prefixes](https://github.com/Tron-xR/LeetCode/tree/master/4365-count-valid-prefixes) |
 ## Counting
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
+| [4365-count-valid-prefixes](https://github.com/Tron-xR/LeetCode/tree/master/4365-count-valid-prefixes) |
 ## Two Pointers
 |  |
 | ------- |
