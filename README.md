@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tron-xR/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
@@ -213,4 +214,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tron-xR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tron-xR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
