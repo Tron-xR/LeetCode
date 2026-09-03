@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4199-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Tron-xR/LeetCode/tree/master/4199-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [4247-minimum-capacity-box](https://github.com/Tron-xR/LeetCode/tree/master/4247-minimum-capacity-box) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Tron-xR/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Tron-xR/LeetCode/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 | [4280-count-digit-appearances](https://github.com/Tron-xR/LeetCode/tree/master/4280-count-digit-appearances) |
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tron-xR/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Tron-xR/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Tron-xR/LeetCode/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 | [4280-count-digit-appearances](https://github.com/Tron-xR/LeetCode/tree/master/4280-count-digit-appearances) |
