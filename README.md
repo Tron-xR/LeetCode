@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tron-xR/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Tron-xR/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Tron-xR/LeetCode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/Tron-xR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tron-xR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tron-xR/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Tron-xR/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -222,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tron-xR/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
