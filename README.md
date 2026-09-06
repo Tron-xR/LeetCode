@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Tron-xR/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tron-xR/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
 | [3055-maximum-odd-binary-number](https://github.com/Tron-xR/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tron-xR/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Tron-xR/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Tron-xR/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Tron-xR/LeetCode/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation
@@ -242,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tron-xR/LeetCode/tree/master/0014-longest-common-prefix) |
+## Polygons
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
