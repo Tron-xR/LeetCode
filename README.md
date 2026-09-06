@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Tron-xR/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Tron-xR/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tron-xR/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
