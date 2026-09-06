@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Tron-xR/LeetCode/tree/master/1086-divisor-game) |
+| [1610-xor-operation-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3055-maximum-odd-binary-number](https://github.com/Tron-xR/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
