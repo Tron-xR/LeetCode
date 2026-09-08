@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/Tron-xR/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
+| [2047-find-a-peak-element-ii](https://github.com/Tron-xR/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Tron-xR/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Tron-xR/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2228-watering-plants-ii](https://github.com/Tron-xR/LeetCode/tree/master/2228-watering-plants-ii) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tron-xR/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Tron-xR/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2047-find-a-peak-element-ii](https://github.com/Tron-xR/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Tron-xR/LeetCode/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Math
 |  |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tron-xR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tron-xR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Tron-xR/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Stack
 |  |
 | ------- |
