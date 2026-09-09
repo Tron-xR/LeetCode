@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tron-xR/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Tron-xR/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Tron-xR/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Tron-xR/LeetCode/tree/master/0441-arranging-coins) |
@@ -259,4 +260,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Tron-xR/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
