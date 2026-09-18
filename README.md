@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Tron-xR/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Tron-xR/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Tron-xR/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/Tron-xR/LeetCode/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tron-xR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Tron-xR/LeetCode/tree/master/0275-h-index-ii) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Tron-xR/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -271,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Tron-xR/LeetCode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Tron-xR/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
