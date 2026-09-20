@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2576-minimum-penalty-for-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3055-maximum-odd-binary-number](https://github.com/Tron-xR/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3811-reverse-degree-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 | [4365-count-valid-prefixes](https://github.com/Tron-xR/LeetCode/tree/master/4365-count-valid-prefixes) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2228-watering-plants-ii](https://github.com/Tron-xR/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tron-xR/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
 ## Design
 |  |
