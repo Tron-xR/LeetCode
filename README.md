@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 | [4365-count-valid-prefixes](https://github.com/Tron-xR/LeetCode/tree/master/4365-count-valid-prefixes) |
+| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Tron-xR/LeetCode/tree/master/4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tron-xR/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tron-xR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Tron-xR/LeetCode/tree/master/4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
+| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Tron-xR/LeetCode/tree/master/4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Number Theory
 |  |
 | ------- |
