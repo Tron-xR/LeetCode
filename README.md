@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3334-apple-redistribution-into-boxes](https://github.com/Tron-xR/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tron-xR/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tron-xR/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4199-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Tron-xR/LeetCode/tree/master/4199-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [4247-minimum-capacity-box](https://github.com/Tron-xR/LeetCode/tree/master/4247-minimum-capacity-box) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2752-sum-multiples](https://github.com/Tron-xR/LeetCode/tree/master/2752-sum-multiples) |
 | [3055-maximum-odd-binary-number](https://github.com/Tron-xR/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3321-type-of-triangle](https://github.com/Tron-xR/LeetCode/tree/master/3321-type-of-triangle) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tron-xR/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4039-compute-decimal-representation](https://github.com/Tron-xR/LeetCode/tree/master/4039-compute-decimal-representation) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tron-xR/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4245-count-commas-in-range](https://github.com/Tron-xR/LeetCode/tree/master/4245-count-commas-in-range) |
