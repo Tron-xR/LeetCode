@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tron-xR/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Tron-xR/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
 | [2047-find-a-peak-element-ii](https://github.com/Tron-xR/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Tron-xR/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0742-to-lower-case](https://github.com/Tron-xR/LeetCode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3055-maximum-odd-binary-number](https://github.com/Tron-xR/LeetCode/tree/master/3055-maximum-odd-binary-number) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Tron-xR/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
