@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0742-to-lower-case](https://github.com/Tron-xR/LeetCode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -271,11 +272,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
