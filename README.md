@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tron-xR/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Tron-xR/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Tron-xR/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tron-xR/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/0020-valid-parentheses) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tron-xR/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Tron-xR/LeetCode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Tron-xR/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/Tron-xR/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tron-xR/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Tron-xR/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0909-stone-game](https://github.com/Tron-xR/LeetCode/tree/master/0909-stone-game) |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Tron-xR/LeetCode/tree/master/0090-subsets-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tron-xR/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
