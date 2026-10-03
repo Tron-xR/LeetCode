@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tron-xR/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tron-xR/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Tron-xR/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Tron-xR/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 | [4365-count-valid-prefixes](https://github.com/Tron-xR/LeetCode/tree/master/4365-count-valid-prefixes) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Tron-xR/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Tron-xR/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Tron-xR/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Greedy
