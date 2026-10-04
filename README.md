@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Tron-xR/LeetCode/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 | [4280-count-digit-appearances](https://github.com/Tron-xR/LeetCode/tree/master/4280-count-digit-appearances) |
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
+| [4344-minimum-operations-to-make-every-element-palindromic](https://github.com/Tron-xR/LeetCode/tree/master/4344-minimum-operations-to-make-every-element-palindromic) |
 | [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
 | [4416-cyclically-shift-rows-and-columns](https://github.com/Tron-xR/LeetCode/tree/master/4416-cyclically-shift-rows-and-columns) |
 ## Binary Search
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Tron-xR/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2047-find-a-peak-element-ii](https://github.com/Tron-xR/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Tron-xR/LeetCode/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
+| [4344-minimum-operations-to-make-every-element-palindromic](https://github.com/Tron-xR/LeetCode/tree/master/4344-minimum-operations-to-make-every-element-palindromic) |
 ## Math
 |  |
 | ------- |
