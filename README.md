@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4280-count-digit-appearances](https://github.com/Tron-xR/LeetCode/tree/master/4280-count-digit-appearances) |
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
 | [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
+| [4416-cyclically-shift-rows-and-columns](https://github.com/Tron-xR/LeetCode/tree/master/4416-cyclically-shift-rows-and-columns) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Tron-xR/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
+| [4416-cyclically-shift-rows-and-columns](https://github.com/Tron-xR/LeetCode/tree/master/4416-cyclically-shift-rows-and-columns) |
 ## Design
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Tron-xR/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tron-xR/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Tron-xR/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [4416-cyclically-shift-rows-and-columns](https://github.com/Tron-xR/LeetCode/tree/master/4416-cyclically-shift-rows-and-columns) |
 ## Stack
 |  |
 | ------- |
