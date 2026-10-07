@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
 | [4344-minimum-operations-to-make-every-element-palindromic](https://github.com/Tron-xR/LeetCode/tree/master/4344-minimum-operations-to-make-every-element-palindromic) |
 | [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
+| [4412-count-good-cyclic-rotations](https://github.com/Tron-xR/LeetCode/tree/master/4412-count-good-cyclic-rotations) |
 | [4415-count-values-with-equally-spaced-occurrences-i](https://github.com/Tron-xR/LeetCode/tree/master/4415-count-values-with-equally-spaced-occurrences-i) |
 | [4416-cyclically-shift-rows-and-columns](https://github.com/Tron-xR/LeetCode/tree/master/4416-cyclically-shift-rows-and-columns) |
 ## Binary Search
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Tron-xR/LeetCode/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [4412-count-good-cyclic-rotations](https://github.com/Tron-xR/LeetCode/tree/master/4412-count-good-cyclic-rotations) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tron-xR/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Tron-xR/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Tron-xR/LeetCode/tree/master/4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4412-count-good-cyclic-rotations](https://github.com/Tron-xR/LeetCode/tree/master/4412-count-good-cyclic-rotations) |
 ## Brainteaser
 |  |
 | ------- |
@@ -344,11 +347,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
