@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [4277-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Tron-xR/LeetCode/tree/master/4277-minimum-operations-to-transform-array-into-alternating-prime) |
 | [4280-count-digit-appearances](https://github.com/Tron-xR/LeetCode/tree/master/4280-count-digit-appearances) |
 | [4292-compare-sums-of-bitonic-parts](https://github.com/Tron-xR/LeetCode/tree/master/4292-compare-sums-of-bitonic-parts) |
+| [4293-count-valid-word-occurrences](https://github.com/Tron-xR/LeetCode/tree/master/4293-count-valid-word-occurrences) |
 | [4344-minimum-operations-to-make-every-element-palindromic](https://github.com/Tron-xR/LeetCode/tree/master/4344-minimum-operations-to-make-every-element-palindromic) |
 | [4371-maximize-pair-strength-using-gcd](https://github.com/Tron-xR/LeetCode/tree/master/4371-maximize-pair-strength-using-gcd) |
 | [4412-count-good-cyclic-rotations](https://github.com/Tron-xR/LeetCode/tree/master/4412-count-good-cyclic-rotations) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3055-maximum-odd-binary-number](https://github.com/Tron-xR/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4275-traffic-signal-color](https://github.com/Tron-xR/LeetCode/tree/master/4275-traffic-signal-color) |
+| [4293-count-valid-word-occurrences](https://github.com/Tron-xR/LeetCode/tree/master/4293-count-valid-word-occurrences) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 | [4365-count-valid-prefixes](https://github.com/Tron-xR/LeetCode/tree/master/4365-count-valid-prefixes) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Tron-xR/LeetCode/tree/master/4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0299-bulls-and-cows](https://github.com/Tron-xR/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Tron-xR/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/Tron-xR/LeetCode/tree/master/1983-maximum-population-year) |
+| [4293-count-valid-word-occurrences](https://github.com/Tron-xR/LeetCode/tree/master/4293-count-valid-word-occurrences) |
 | [4340-maximum-manhattan-distance-after-all-moves](https://github.com/Tron-xR/LeetCode/tree/master/4340-maximum-manhattan-distance-after-all-moves) |
 | [4365-count-valid-prefixes](https://github.com/Tron-xR/LeetCode/tree/master/4365-count-valid-prefixes) |
 ## Two Pointers
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Tron-xR/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tron-xR/LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Tron-xR/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4293-count-valid-word-occurrences](https://github.com/Tron-xR/LeetCode/tree/master/4293-count-valid-word-occurrences) |
 | [4415-count-values-with-equally-spaced-occurrences-i](https://github.com/Tron-xR/LeetCode/tree/master/4415-count-values-with-equally-spaced-occurrences-i) |
 ## Greedy
 |  |
@@ -347,11 +351,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
