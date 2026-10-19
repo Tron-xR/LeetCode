@@ -28,6 +28,7 @@
 | [2383-add-two-integers](https://github.com/Tron-xR/LeetCode/tree/master/2383-add-two-integers) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tron-xR/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/Tron-xR/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Tron-xR/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Tron-xR/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tron-xR/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3859-maximum-product-of-two-digits](https://github.com/Tron-xR/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
