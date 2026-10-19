@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tron-xR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Tron-xR/LeetCode/tree/master/2383-add-two-integers) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tron-xR/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
