@@ -14,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tron-xR/LeetCode/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tron-xR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tron-xR/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tron-xR/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -28,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tron-xR/LeetCode/tree/master/0012-integer-to-roman) |
 | [0371-sum-of-two-integers](https://github.com/Tron-xR/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tron-xR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -44,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tron-xR/LeetCode/tree/master/0012-integer-to-roman) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Binary Search
 |  |
