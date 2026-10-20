@@ -96,4 +96,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Tron-xR/LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Tron-xR/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
