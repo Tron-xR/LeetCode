@@ -53,6 +53,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tron-xR/LeetCode/tree/master/0012-integer-to-roman) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/Tron-xR/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
