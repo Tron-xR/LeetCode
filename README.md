@@ -22,6 +22,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tron-xR/LeetCode/tree/master/0012-integer-to-roman) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tron-xR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tron-xR/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tron-xR/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tron-xR/LeetCode/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/Tron-xR/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Binary Search
@@ -104,4 +106,12 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tron-xR/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
