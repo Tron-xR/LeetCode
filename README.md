@@ -18,6 +18,7 @@
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tron-xR/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Tron-xR/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Tron-xR/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Tron-xR/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
