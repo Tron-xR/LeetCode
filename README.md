@@ -93,6 +93,7 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Tron-xR/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Tron-xR/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Tron-xR/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
