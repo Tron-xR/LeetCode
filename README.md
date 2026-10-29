@@ -9,6 +9,7 @@
 | [0498-diagonal-traverse](https://github.com/Tron-xR/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -46,6 +47,7 @@
 | [0069-sqrtx](https://github.com/Tron-xR/LeetCode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/Tron-xR/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tron-xR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Tron-xR/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Tron-xR/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -143,4 +145,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
