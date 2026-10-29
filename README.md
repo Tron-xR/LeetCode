@@ -7,6 +7,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Tron-xR/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tron-xR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/Tron-xR/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -57,6 +58,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Tron-xR/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## String
@@ -79,6 +81,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tron-xR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tron-xR/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -136,4 +139,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tron-xR/LeetCode/tree/master/0069-sqrtx) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
