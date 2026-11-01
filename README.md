@@ -21,6 +21,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Tron-xR/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tron-xR/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3194-find-words-containing-character](https://github.com/Tron-xR/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tron-xR/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Tron-xR/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -81,6 +82,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
 | [0965-unique-email-addresses](https://github.com/Tron-xR/LeetCode/tree/master/0965-unique-email-addresses) |
+| [3194-find-words-containing-character](https://github.com/Tron-xR/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/Tron-xR/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Binary Search
