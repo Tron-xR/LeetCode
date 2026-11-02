@@ -21,6 +21,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tron-xR/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Tron-xR/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tron-xR/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/Tron-xR/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tron-xR/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Tron-xR/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## String
