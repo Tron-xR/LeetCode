@@ -36,6 +36,7 @@
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tron-xR/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Tron-xR/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3632-button-with-longest-push-time](https://github.com/Tron-xR/LeetCode/tree/master/3632-button-with-longest-push-time) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tron-xR/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
