@@ -32,6 +32,7 @@
 | [3324-split-the-array](https://github.com/Tron-xR/LeetCode/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tron-xR/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Tron-xR/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3429-special-array-i](https://github.com/Tron-xR/LeetCode/tree/master/3429-special-array-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
