@@ -31,6 +31,7 @@
 | [3311-ant-on-the-boundary](https://github.com/Tron-xR/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3324-split-the-array](https://github.com/Tron-xR/LeetCode/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tron-xR/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Tron-xR/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -80,6 +81,7 @@
 | [2383-add-two-integers](https://github.com/Tron-xR/LeetCode/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Tron-xR/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/Tron-xR/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tron-xR/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Tron-xR/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
