@@ -29,6 +29,7 @@
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tron-xR/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Tron-xR/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3311-ant-on-the-boundary](https://github.com/Tron-xR/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3324-split-the-array](https://github.com/Tron-xR/LeetCode/tree/master/3324-split-the-array) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -50,6 +51,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tron-xR/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3324-split-the-array](https://github.com/Tron-xR/LeetCode/tree/master/3324-split-the-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tron-xR/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Indexed Tree
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3324-split-the-array](https://github.com/Tron-xR/LeetCode/tree/master/3324-split-the-array) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Newton's Method
 |  |
