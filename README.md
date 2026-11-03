@@ -33,6 +33,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tron-xR/LeetCode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Tron-xR/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -78,6 +79,7 @@
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tron-xR/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Tron-xR/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Tron-xR/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Tron-xR/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
