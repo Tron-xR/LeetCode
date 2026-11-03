@@ -35,6 +35,7 @@
 | [3429-special-array-i](https://github.com/Tron-xR/LeetCode/tree/master/3429-special-array-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tron-xR/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Tron-xR/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Tron-xR/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/Tron-xR/LeetCode/tree/master/3632-button-with-longest-push-time) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -168,6 +169,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/Tron-xR/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3311-ant-on-the-boundary](https://github.com/Tron-xR/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Tron-xR/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/Tron-xR/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Tron-xR/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
