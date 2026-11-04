@@ -13,6 +13,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0965-unique-email-addresses](https://github.com/Tron-xR/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0979-di-string-match](https://github.com/Tron-xR/LeetCode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Tron-xR/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
+| [0979-di-string-match](https://github.com/Tron-xR/LeetCode/tree/master/0979-di-string-match) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tron-xR/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Tron-xR/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
@@ -108,6 +110,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
 | [0965-unique-email-addresses](https://github.com/Tron-xR/LeetCode/tree/master/0965-unique-email-addresses) |
+| [0979-di-string-match](https://github.com/Tron-xR/LeetCode/tree/master/0979-di-string-match) |
 | [3194-find-words-containing-character](https://github.com/Tron-xR/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Tron-xR/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/Tron-xR/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tron-xR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0979-di-string-match](https://github.com/Tron-xR/LeetCode/tree/master/0979-di-string-match) |
 ## Matrix
 |  |
 | ------- |
