@@ -17,6 +17,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Tron-xR/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Tron-xR/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Tron-xR/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Tron-xR/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Tron-xR/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
