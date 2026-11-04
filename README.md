@@ -19,6 +19,7 @@
 | [1168-duplicate-zeros](https://github.com/Tron-xR/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1306-minimum-absolute-difference](https://github.com/Tron-xR/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Tron-xR/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tron-xR/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -84,6 +85,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tron-xR/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Tron-xR/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tron-xR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Tron-xR/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Tron-xR/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Polygons
 |  |
 | ------- |
