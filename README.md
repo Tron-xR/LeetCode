@@ -15,6 +15,7 @@
 | [0965-unique-email-addresses](https://github.com/Tron-xR/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Tron-xR/LeetCode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Tron-xR/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tron-xR/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -129,6 +130,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tron-xR/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tron-xR/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 ## Geometry
 |  |
 | ------- |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+## Bubble Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
