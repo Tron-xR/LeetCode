@@ -20,6 +20,7 @@
 | [1041-available-captures-for-rook](https://github.com/Tron-xR/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Tron-xR/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Tron-xR/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Tron-xR/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Tron-xR/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -66,6 +67,7 @@
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
 | [0965-unique-email-addresses](https://github.com/Tron-xR/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Tron-xR/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Tron-xR/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tron-xR/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Tron-xR/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Tron-xR/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3324-split-the-array](https://github.com/Tron-xR/LeetCode/tree/master/3324-split-the-array) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Newton's Method
