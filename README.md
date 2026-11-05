@@ -17,6 +17,7 @@
 | [0965-unique-email-addresses](https://github.com/Tron-xR/LeetCode/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Tron-xR/LeetCode/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Tron-xR/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1041-available-captures-for-rook](https://github.com/Tron-xR/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Tron-xR/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Tron-xR/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/Tron-xR/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Tron-xR/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1041-available-captures-for-rook](https://github.com/Tron-xR/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Tron-xR/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1041-available-captures-for-rook](https://github.com/Tron-xR/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tron-xR/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tron-xR/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
