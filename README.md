@@ -59,6 +59,7 @@
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Tron-xR/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4378-nearest-available-drone](https://github.com/Tron-xR/LeetCode/tree/master/4378-nearest-available-drone) |
 | [4384-elevator-requests-i](https://github.com/Tron-xR/LeetCode/tree/master/4384-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tron-xR/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Tron-xR/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Tron-xR/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [4378-nearest-available-drone](https://github.com/Tron-xR/LeetCode/tree/master/4378-nearest-available-drone) |
 ## Bit Manipulation
 |  |
 | ------- |
