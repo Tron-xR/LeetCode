@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Tron-xR/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0228-summary-ranges](https://github.com/Tron-xR/LeetCode/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tron-xR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tron-xR/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tron-xR/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
