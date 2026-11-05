@@ -23,6 +23,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tron-xR/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Tron-xR/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1306-minimum-absolute-difference](https://github.com/Tron-xR/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tron-xR/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Tron-xR/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -94,6 +95,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tron-xR/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tron-xR/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Tron-xR/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tron-xR/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Tron-xR/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/Tron-xR/LeetCode/tree/master/0979-di-string-match) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Tron-xR/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Tron-xR/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/Tron-xR/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
