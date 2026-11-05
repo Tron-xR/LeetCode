@@ -59,6 +59,7 @@
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Tron-xR/LeetCode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4384-elevator-requests-i](https://github.com/Tron-xR/LeetCode/tree/master/4384-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3311-ant-on-the-boundary](https://github.com/Tron-xR/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Tron-xR/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [4384-elevator-requests-i](https://github.com/Tron-xR/LeetCode/tree/master/4384-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
