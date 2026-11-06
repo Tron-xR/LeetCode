@@ -50,6 +50,7 @@
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tron-xR/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Tron-xR/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Tron-xR/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Tron-xR/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3632-button-with-longest-push-time](https://github.com/Tron-xR/LeetCode/tree/master/3632-button-with-longest-push-time) |
 | [3778-transform-array-by-parity](https://github.com/Tron-xR/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -141,6 +142,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Tron-xR/LeetCode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Tron-xR/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Sorting
 |  |
 | ------- |
