@@ -11,6 +11,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tron-xR/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Tron-xR/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Tron-xR/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0506-relative-ranks](https://github.com/Tron-xR/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Tron-xR/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -149,6 +150,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tron-xR/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tron-xR/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Tron-xR/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tron-xR/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tron-xR/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
@@ -258,6 +260,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Tron-xR/LeetCode/tree/master/0506-relative-ranks) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Recursion
 |  |
