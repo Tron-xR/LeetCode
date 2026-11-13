@@ -35,6 +35,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Tron-xR/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -161,6 +162,7 @@
 | [1306-minimum-absolute-difference](https://github.com/Tron-xR/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tron-xR/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Tron-xR/LeetCode/tree/master/0506-relative-ranks) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Tron-xR/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Recursion
 |  |
