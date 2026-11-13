@@ -41,6 +41,7 @@
 | [1656-count-good-triplets](https://github.com/Tron-xR/LeetCode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/Tron-xR/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1839-decode-xored-array](https://github.com/Tron-xR/LeetCode/tree/master/1839-decode-xored-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Tron-xR/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Tron-xR/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Tron-xR/LeetCode/tree/master/0389-find-the-difference) |
+| [1839-decode-xored-array](https://github.com/Tron-xR/LeetCode/tree/master/1839-decode-xored-array) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Tron-xR/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Tron-xR/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/Tron-xR/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
