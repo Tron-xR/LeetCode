@@ -32,6 +32,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tron-xR/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tron-xR/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tron-xR/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Tron-xR/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -77,6 +78,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Tron-xR/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tron-xR/LeetCode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3324-split-the-array](https://github.com/Tron-xR/LeetCode/tree/master/3324-split-the-array) |
@@ -158,6 +160,7 @@
 | [1137-height-checker](https://github.com/Tron-xR/LeetCode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/Tron-xR/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tron-xR/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
