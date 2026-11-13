@@ -29,6 +29,7 @@
 | [1395-minimum-time-visiting-all-points](https://github.com/Tron-xR/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Tron-xR/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Tron-xR/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tron-xR/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Tron-xR/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tron-xR/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -195,6 +196,7 @@
 | [0498-diagonal-traverse](https://github.com/Tron-xR/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/Tron-xR/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Tron-xR/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Simulation
