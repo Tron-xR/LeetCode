@@ -39,6 +39,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Tron-xR/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Tron-xR/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/Tron-xR/LeetCode/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/Tron-xR/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Tron-xR/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Tron-xR/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -209,6 +210,7 @@
 | [1041-available-captures-for-rook](https://github.com/Tron-xR/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Tron-xR/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Tron-xR/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Tron-xR/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Tron-xR/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/Tron-xR/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## Simulation
